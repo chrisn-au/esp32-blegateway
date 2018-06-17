@@ -2,5 +2,5 @@ netInfo homeNet = {	.mqttHost = "192.168.0.127",			//can be blank if not using M
 					.mqttUser = "", 	//can be blank
 					.mqttPass = "", 	//can be blank
 					.mqttPort = 1883,					//default port for MQTT is 1883 - only chance if needed.
-					.ssid = "NeaveNet",
-					.pass = "roamd1ng0"};
+					.ssid = "xxxxx",
+					.pass = "xxxxx"};
